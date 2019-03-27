@@ -1,0 +1,1 @@
+Contains SVG icons used for roadbook rendering
